@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>latitude</key>
+				<string>40.825882</string>
+				<key>longitude</key>
+				<string>-73.422059</string>
+				<key>title</key>
+				<string>301 W Hills Rd 1</string>
+				<key>id</key>
+				<string>001</string>
+				<key>points</key>
+				<string>2</string>
+				<key>text</key>
+				<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+				<key>image</key>
+				<string>http://cdn.wallpapersafari.com/17/10/MvnSQg.jpg</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>40.825881</string>
+				<key>longitude</key>
+				<string>-73.422058</string>
+				<key>title</key>
+				<string>301 W Hills Rd 2</string>
+				<key>id</key>
+				<string>002</string>
+				<key>points</key>
+				<string>5</string>
+				<key>text</key>
+				<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+				<key>image</key>
+				<string>http://miriadna.com/desctopwalls/images/max/Countryside-Splendor-(France).jpg</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>40.825880</string>
+				<key>longitude</key>
+				<string>-73.422057</string>
+				<key>title</key>
+				<string>301 W Hills Rd 3</string>
+				<key>id</key>
+				<string>003</string>
+				<key>points</key>
+				<string>3</string>
+				<key>text</key>
+				<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+				<key>image</key>
+				<string>https://i.ytimg.com/vi/HR3c38VsUAs/maxresdefault.jpg</string>
+			</dict>
+		</array>
+		<key>latitude</key>
+		<string>40.825883</string>
+		<key>longitude</key>
+		<string>-73.422060</string>
+		<key>title</key>
+		<string>301 W Hills Rd</string>
+		<key>subtitle</key>
+		<string>My work</string>
+		<key>text</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>image</key>
+		<string>http://www.mycity-web.com/wp-content/uploads/2015/03/country_78.jpg</string>
+	</dict>
+	<dict>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>latitude</key>
+				<string>40.826576</string>
+				<key>longitude</key>
+				<string>-73.425410</string>
+				<key>title</key>
+				<string>Walt Whitman High School 1</string>
+				<key>id</key>
+				<string>001</string>
+				<key>points</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>40.826575</string>
+				<key>longitude</key>
+				<string>-73.425409</string>
+				<key>title</key>
+				<string>Walt Whitman High School 2</string>
+				<key>id</key>
+				<string>002</string>
+				<key>points</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>40.826574</string>
+				<key>longitude</key>
+				<string>-73.425408</string>
+				<key>title</key>
+				<string>Walt Whitman High School 3</string>
+				<key>id</key>
+				<string>003</string>
+				<key>points</key>
+				<string>8</string>
+			</dict>
+		</array>
+		<key>latitude</key>
+		<string>40.826577</string>
+		<key>longitude</key>
+		<string>-73.425411</string>
+		<key>title</key>
+		<string>Walt Whitman High School</string>
+		<key>subtitle</key>
+		<string>It&apos;s unbelievable!</string>
+		<key>text</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>image</key>
+		<string>http://images.greatergreaterwashington.org/images/201306/241723.jpg</string>
+	</dict>
+	<dict>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>latitude</key>
+				<string>40.836451</string>
+				<key>longitude</key>
+				<string>-73.430774</string>
+				<key>title</key>
+				<string>Peter A. Nelson Park 1</string>
+				<key>id</key>
+				<string>001</string>
+				<key>points</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>40.836450</string>
+				<key>longitude</key>
+				<string>-73.430773</string>
+				<key>title</key>
+				<string>Peter A. Nelson Park 2</string>
+				<key>id</key>
+				<string>002</string>
+				<key>points</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>40.836449</string>
+				<key>longitude</key>
+				<string>-73.430772</string>
+				<key>title</key>
+				<string>Peter A. Nelson Park 3</string>
+				<key>id</key>
+				<string>003</string>
+				<key>points</key>
+				<string>5</string>
+			</dict>
+		</array>
+		<key>latitude</key>
+		<string>40.836452</string>
+		<key>longitude</key>
+		<string>-73.430775</string>
+		<key>title</key>
+		<string>Peter A. Nelson Park</string>
+		<key>subtitle</key>
+		<string>Best in US</string>
+		<key>text</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>image</key>
+		<string>http://slphistory.org/wp-content/uploads/2014/12/Nelson-Park-and-Peter-Hobart-School-Park-1024x768.jpg</string>
+	</dict>
+	<dict>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>latitude</key>
+				<string>40.821177</string>
+				<key>longitude</key>
+				<string>-73.409231</string>
+				<key>title</key>
+				<string>The Cheesecake Factory 1</string>
+				<key>id</key>
+				<string>001</string>
+				<key>points</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>40.821176</string>
+				<key>longitude</key>
+				<string>-73.409230</string>
+				<key>title</key>
+				<string>The Cheesecake Factory 2</string>
+				<key>points</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>40.821175</string>
+				<key>longitude</key>
+				<string>-73.409229</string>
+				<key>title</key>
+				<string>The Cheesecake Factory 3</string>
+				<key>id</key>
+				<string>003</string>
+				<key>points</key>
+				<string>7</string>
+			</dict>
+		</array>
+		<key>latitude</key>
+		<string>40.821178</string>
+		<key>longitude</key>
+		<string>-73.409232</string>
+		<key>title</key>
+		<string>The Cheesecake Factory</string>
+		<key>subtitle</key>
+		<string>Interesting place</string>
+		<key>text</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>image</key>
+		<string>http://www.thecheesecakefactory.com/assets/images/Menu-Import/ccf_topanga_4.jpg</string>
+	</dict>
+</array>
+</plist>

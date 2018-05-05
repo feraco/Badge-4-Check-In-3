@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>latitude</key>
+				<string>50.860798</string>
+				<key>longitude</key>
+				<string>4.358894</string>
+				<key>title</key>
+				<string>Proximus 1</string>
+				<key>id</key>
+				<string>001</string>
+				<key>points</key>
+				<string>2</string>
+				<key>text</key>
+				<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+				<key>image</key>
+				<string>http://farm8.static.flickr.com/7700/17058558496_2c090e5576.jpg</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>50.860797</string>
+				<key>longitude</key>
+				<string>4.358893</string>
+				<key>title</key>
+				<string>Proximus 2</string>
+				<key>id</key>
+				<string>002</string>
+				<key>points</key>
+				<string>5</string>
+				<key>text</key>
+				<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+				<key>image</key>
+				<string>http://www.jaspers-eyers.be/sites/default/files/belgacom-copywright-jaspers-eyers-06.jpg</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>50.860796</string>
+				<key>longitude</key>
+				<string>4.358892</string>
+				<key>title</key>
+				<string>Proximus 3</string>
+				<key>id</key>
+				<string>003</string>
+				<key>points</key>
+				<string>3</string>
+				<key>text</key>
+				<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+				<key>image</key>
+				<string>http://photos.wikimapia.org/p/00/00/93/11/53_big.jpg</string>
+			</dict>
+		</array>
+		<key>latitude</key>
+		<string>50.860799</string>
+		<key>longitude</key>
+		<string>4.358895</string>
+		<key>title</key>
+		<string>Proximus Tower</string>
+		<key>subtitle</key>
+		<string>My work</string>
+		<key>text</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>image</key>
+		<string>http://wallpapercave.com/wp/qtk50tL.jpg</string>
+	</dict>
+	<dict>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>latitude</key>
+				<string>50.862565</string>
+				<key>longitude</key>
+				<string>4.354324</string>
+				<key>title</key>
+				<string>Parking 1</string>
+				<key>id</key>
+				<string>001</string>
+				<key>points</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>50.862564</string>
+				<key>longitude</key>
+				<string>4.354323</string>
+				<key>title</key>
+				<string>Parking 2</string>
+				<key>id</key>
+				<string>002</string>
+				<key>points</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>50.862563</string>
+				<key>longitude</key>
+				<string>4.354322</string>
+				<key>title</key>
+				<string>Parking 3</string>
+				<key>id</key>
+				<string>003</string>
+				<key>points</key>
+				<string>8</string>
+			</dict>
+		</array>
+		<key>latitude</key>
+		<string>50.862566</string>
+		<key>longitude</key>
+		<string>4.354325</string>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>Free! It&apos;s unbelievable!</string>
+		<key>text</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>image</key>
+		<string>https://lh6.ggpht.com/sw_iT7GZASdAYeiecsZEHJE-EgDhdK2rCWUzZOJS0OFiGpoi9qn8iMH2nuXHgWg2PA=h900</string>
+	</dict>
+	<dict>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>latitude</key>
+				<string>50.836731</string>
+				<key>longitude</key>
+				<string>4.358197</string>
+				<key>title</key>
+				<string>Apple Store 1</string>
+				<key>id</key>
+				<string>001</string>
+				<key>points</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>50.836730</string>
+				<key>longitude</key>
+				<string>4.358196</string>
+				<key>title</key>
+				<string>Apple Store 2</string>
+				<key>id</key>
+				<string>002</string>
+				<key>points</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>50.836729</string>
+				<key>longitude</key>
+				<string>4.358195</string>
+				<key>title</key>
+				<string>Apple Store 3</string>
+				<key>id</key>
+				<string>003</string>
+				<key>points</key>
+				<string>5</string>
+			</dict>
+		</array>
+		<key>latitude</key>
+		<string>50.836732</string>
+		<key>longitude</key>
+		<string>4.358198</string>
+		<key>title</key>
+		<string>Apple Store</string>
+		<key>subtitle</key>
+		<string>Best in Belgium</string>
+		<key>text</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>image</key>
+		<string>https://i.ytimg.com/vi/icqDxNab3Do/maxresdefault.jpg</string>
+	</dict>
+	<dict>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>latitude</key>
+				<string>50.886989</string>
+				<key>longitude</key>
+				<string>4.359799</string>
+				<key>title</key>
+				<string>Castle of Laeken 1</string>
+				<key>id</key>
+				<string>001</string>
+				<key>points</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>50.886988</string>
+				<key>longitude</key>
+				<string>4.359798</string>
+				<key>title</key>
+				<string>Castle of Laeken 2</string>
+				<key>points</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>latitude</key>
+				<string>50.886987</string>
+				<key>longitude</key>
+				<string>4.359797</string>
+				<key>title</key>
+				<string>Castle of Laeken 3</string>
+				<key>id</key>
+				<string>003</string>
+				<key>points</key>
+				<string>7</string>
+			</dict>
+		</array>
+		<key>latitude</key>
+		<string>50.886990</string>
+		<key>longitude</key>
+		<string>4.359800</string>
+		<key>title</key>
+		<string>Castle of Laeken</string>
+		<key>subtitle</key>
+		<string>Residence of Belgium King</string>
+		<key>text</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+		<key>image</key>
+		<string>http://s2.dmcdn.net/Dnepf/1280x720-ET4.jpg</string>
+	</dict>
+</array>
+</plist>
